@@ -1,2 +1,2 @@
 Git Class
-20th feb class pract from git gui
+20th feb class pract from github gui
