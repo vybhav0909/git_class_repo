@@ -1,8 +1,4 @@
 Git Class
 20th feb class pract from github gui
 change from local repo
-<<<<<<< HEAD
-change from local repo pull
-=======
-change from remote repo pull
->>>>>>> 368d231017d4afe5ee0376cf0cc6971c43dd3553
+
