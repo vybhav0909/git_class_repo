@@ -3,4 +3,8 @@ Git Class
 change from local repo
 
 local repo
+<<<<<<< HEAD
 to remote
+=======
+to local
+>>>>>>> 66d18e45d55bfd79734dabf3909d0a1b3545b71a
